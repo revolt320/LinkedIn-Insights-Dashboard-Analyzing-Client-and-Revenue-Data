@@ -4,12 +4,16 @@ This project presents a dashboard that integrates client details extracted from 
 
 ## Features
 Data Integration: Combines LinkedIn profile data with revenue information.
+
 Visualizations: Offers intuitive charts and graphs for easy analysis.
+
 Insights: Provides key metrics and trends to support strategic decision-making.
+
 User-Friendly Interface: Designed for ease of use and accessibility.
 
 ## Data Sources
 LinkedIn Profiles: Created a random csv file using pandas which resembles the details avilable from LinkedIn. Data available from LinkedIn was processed and cleaned. 
+
 Company Revenue: Created a random csv file using pandas which resembles the company data. 
 
 ## Data Processing
