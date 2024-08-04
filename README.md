@@ -16,3 +16,5 @@ Company Revenue: Created a random csv file using pandas which resembles the comp
 Python: For data processing and analysis.
 Pandas: For Creating random datasets, data manipulation and cleaning.
 Looker Studio: For creating interactive visualizations.
+
+dashboard: https://lookerstudio.google.com/reporting/94e83238-2028-45af-8cd9-03782b57076d
