@@ -27,3 +27,5 @@ Pandas: For Creating random datasets, data manipulation and cleaning.
 Looker Studio: For creating interactive visualizations.
 
 dashboard: https://lookerstudio.google.com/reporting/94e83238-2028-45af-8cd9-03782b57076d
+
+presentation: https://docs.google.com/presentation/d/17XbuA511vJ__Le_5xWZkpnG8fLWEW5Sh/edit?slide=id.p1#slide=id.p1
